@@ -1,0 +1,7 @@
+id,name,price,quantity,notes
+1, Widget A , 10.50, 5, new arrival
+2,Widget B, , 2, special
+3,Widget A,10.50,5,new arrival
+4,Widget C,12.00, , clearance
+5,Widget D,8.00,3,
+6, Widget E , 15.00,1, limited
